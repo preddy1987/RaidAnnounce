@@ -1,0 +1,5 @@
+## Interface: 11507
+## Title: RaidAnnounce
+## Version: 1.1
+## SavedVariables: MyRaidData
+RaidAnnounce.lua
